@@ -1,0 +1,9 @@
+name: newnewplugin
+version: 1.0.0
+author: Keith
+description: a test plugin
+main: Main
+commands:
+  vault:
+    description: Open a vault
+    usage: /<command>
